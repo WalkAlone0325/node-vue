@@ -10,7 +10,7 @@
           <img :src="scope.row.avatar" style="height:3rem" />
         </template>
       </el-table-column>
-      <el-table-column fixed="right" label="操作" width="100">
+      <el-table-column fixed="right" label="操作" width="180">
         <template slot-scope="scope">
           <el-button
             type="text"
