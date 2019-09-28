@@ -169,6 +169,12 @@ module.exports = app => {
     res.send(data)
   })
 
+  // 英雄详情
+  router.get('/heroes/:id', async (req, res) => {
+    const data = await Hero.findById(req.params.id).populate('categories').lean()
+    res.send(data)
+  })
+
   // 可用于服务端查看接口数据
   app.use('/web/api', router)
 }

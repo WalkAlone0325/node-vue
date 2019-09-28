@@ -94,7 +94,7 @@ $value in $flex-jc {
 
 @each $key,
 $value in $flex-ai {
-  .ai-#{key} {
+  .ai-#{$key} {
     align-items: $value;
   }
 }
