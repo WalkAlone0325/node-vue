@@ -159,6 +159,16 @@ module.exports = app => {
     res.send(cats)
   })
 
+  // 文章详情
+  router.get('/articles/:id', async (req, res) => {
+    const data = await Article.findById(req.params.id).lean()
+    // 前台的相关资讯，limit()限制几条
+    data.related = await Article.find().where({
+      categories: { $in: data.categories }
+    }).limit(2)
+    res.send(data)
+  })
+
   // 可用于服务端查看接口数据
   app.use('/web/api', router)
 }

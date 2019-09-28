@@ -22,6 +22,10 @@ a {
   color: #999999;
 }
 
+p {
+  line-height: 1.5rem;
+}
+
 // colors
 @each $colorKey,
 $color in $colors {
@@ -208,5 +212,12 @@ $type in $spacing-types {
     width: 0.7692rem;
     height: 0.7692rem;
     background-position: 38.577% 52.076%;
+  }
+}
+
+// borders
+@each $dir in (top, right, left, bottom) {
+  .boder-#{$dir} {
+    border-#{$dir}: 1px solid $border-color;
   }
 }
