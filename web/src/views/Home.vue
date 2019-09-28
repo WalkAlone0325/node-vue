@@ -122,7 +122,7 @@ export default {
   .nav-item {
     width: 25%;
     border-right: 1px solid $border-color;
-    &:nth-child(4n + 1) {
+    &:nth-child(4n) {
       border-right: none;
     }
   }
