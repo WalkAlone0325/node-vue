@@ -4,4 +4,10 @@ module.exports = app => {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
+
+
+  // 数据库中引入全部模型 npm i require-all
+  // require('require-all')(__dirname, '/../models')
+
+  require('require-all')(__dirname + '/../models')
 }
