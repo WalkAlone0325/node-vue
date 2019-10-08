@@ -3,7 +3,8 @@ import Vue from 'vue'
 import router from './router'
 
 const http = axios.create({
-  baseURL: 'http://localhost:3000/admin/api'
+  baseURL: process.env.VUE_APP_API_URL || '/admin/api', // 线上环境
+  // baseURL: 'http://localhost:3000/admin/api'
 })
 
 http.interceptors.request.use(function (config) {
