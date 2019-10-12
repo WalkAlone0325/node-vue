@@ -96,29 +96,29 @@
 
 - web：
 
-  ![](.\screenshot\Snipaste_2019-10-12_09-34-47.png)
+  ![](./screenshot/Snipaste_2019-10-12_09-34-47.png)
 
-  ![Snipaste_2019-10-12_09-35-39](.\screenshot\Snipaste_2019-10-12_09-35-39.png)
+  ![Snipaste_2019-10-12_09-35-39](./screenshot/Snipaste_2019-10-12_09-35-39.png)
 
-  ![Snipaste_2019-10-12_09-35-50](.\screenshot\Snipaste_2019-10-12_09-35-50.png)
+  ![Snipaste_2019-10-12_09-35-50](./screenshot/Snipaste_2019-10-12_09-35-50.png)
 
 - admin：
 
-  ![Snipaste_2019-10-12_09-36-19](.\screenshot\Snipaste_2019-10-12_09-36-19.png)
+  ![Snipaste_2019-10-12_09-36-19](./screenshot/Snipaste_2019-10-12_09-36-19.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-04](.\screenshot\Snipaste_2019-10-12_09-37-04.png)
+  ![Snipaste_2019-10-12_09-37-04](./screenshot/Snipaste_2019-10-12_09-37-04.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-18](.\screenshot\Snipaste_2019-10-12_09-37-18.png)
+  ![Snipaste_2019-10-12_09-37-18](./screenshot/Snipaste_2019-10-12_09-37-18.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-39](.\screenshot\Snipaste_2019-10-12_09-37-39.png)
+  ![Snipaste_2019-10-12_09-37-39](./screenshot/Snipaste_2019-10-12_09-37-39.png)
 
-  ![Snipaste_2019-10-12_09-38-06](.\screenshot\Snipaste_2019-10-12_09-38-06.png)
+  ![Snipaste_2019-10-12_09-38-06](./screenshot/Snipaste_2019-10-12_09-38-06.png)
 
 
 
