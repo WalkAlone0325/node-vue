@@ -23,6 +23,10 @@ Vue.use(Router)
 
 const router = new Router({
   routes: [
+    {
+      path: '/',
+      redirect: '/admin_users/list'
+    },
     { path: '/login', name: 'login', component: Login, meta: { isPublic: true } },
     {
       path: '/',
