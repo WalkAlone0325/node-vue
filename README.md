@@ -1,12 +1,10 @@
 # node-vue
 
-[TOC]
-
 ## 简介
 
-​		全栈练习项目node-vue，admin后台管理系统，server服务端，web前台
+​		  全栈练习项目node-vue，admin后台管理系统，server服务端，web前台
 
-此项目基于 Vue全家桶 + Element-UI + node + express 技术栈实现的王者荣耀官网
+此项目基于 Vue全家桶 + Element-UI + node + express 技术栈实现的王者荣耀手机端官网
 
 
 
@@ -51,7 +49,7 @@
   | vue-awesome-swiper | ^3.1.3  | 基于swiper的轮播框架 |
   |     vue-router     | ^3.0.3  |       vue路由        |
   |       axios        | ^0.19.0 |      ajax请求库      |
-  |       dayjs        | ^1.8.16 |     对date的出来     |
+  |       dayjs        | ^1.8.16 |     对date的处理     |
   |     element-ui     | ^2.4.5  |      饿了么UI库      |
   |    vue2-editor     | ^2.10.2 |     富文本编辑器     |
 
@@ -90,7 +88,7 @@
 
          用户名：admin	
 
-         密	码：123456
+         密	 码：123456
 
 ## 效果
 
@@ -98,29 +96,29 @@
 
 - web：
 
-  ![](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-34-47.png)
+  ![](.\screenshot\Snipaste_2019-10-12_09-34-47.png)
 
-  ![Snipaste_2019-10-12_09-35-39](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-35-39.png)
+  ![Snipaste_2019-10-12_09-35-39](.\screenshot\Snipaste_2019-10-12_09-35-39.png)
 
-  ![Snipaste_2019-10-12_09-35-50](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-35-50.png)
+  ![Snipaste_2019-10-12_09-35-50](.\screenshot\Snipaste_2019-10-12_09-35-50.png)
 
 - admin：
 
-  ![Snipaste_2019-10-12_09-36-19](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-36-19.png)
+  ![Snipaste_2019-10-12_09-36-19](.\screenshot\Snipaste_2019-10-12_09-36-19.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-04](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-37-04.png)
+  ![Snipaste_2019-10-12_09-37-04](.\screenshot\Snipaste_2019-10-12_09-37-04.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-18](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-37-18.png)
+  ![Snipaste_2019-10-12_09-37-18](.\screenshot\Snipaste_2019-10-12_09-37-18.png)
 
   
 
-  ![Snipaste_2019-10-12_09-37-39](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-37-39.png)
+  ![Snipaste_2019-10-12_09-37-39](.\screenshot\Snipaste_2019-10-12_09-37-39.png)
 
-  ![Snipaste_2019-10-12_09-38-06](E:\duxing\Desktop\node-vue\screenshot\Snipaste_2019-10-12_09-38-06.png)
+  ![Snipaste_2019-10-12_09-38-06](.\screenshot\Snipaste_2019-10-12_09-38-06.png)
 
 
 
